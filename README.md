@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LekhyaShriBonam
 - 🌱 I’m currently learning Data analytics
-- 
+
 
 <!---
 LekhyaShriBonam/LekhyaShriBonam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
